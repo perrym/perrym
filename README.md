@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi there, I'm Perry
 
-<!--
-**perrym/perrym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Security Auditor | 🐍 Python Developer | ☁️ Azure Specialist
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Conducting security audits for cloud environments and nog cloud envirment
+- 🧰 Developing in Powershell and Python tools for security analysis
+- 🚀 Automating security processes with Azure DevOps
+
+📫 Feel free to connect with me on pamsniffer@gmail.com
+
+---
+
+## 📌 Featured Projects
+
+- https://github.com/perrym/apiscanner: A tool for performing security audits on rest api's.
+- [python-vulnerability-scanner](https://github.com/perrym/python-vulnerability-sc
+- https://github.com/perrym/m3utodream
+- Tool for converting m3u to dreambox
