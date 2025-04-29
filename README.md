@@ -4,9 +4,10 @@
 
 Welcome to my GitHub profile! I specialize in:
 
-- 🔍 Conducting security audits for cloud environments and nog cloud envirment
+- 🔍 Conducting security audits
 - 🧰 Developing in Powershell and Python tools for security analysis
-- 🚀 Automating security processes with Azure DevOps
+- 🛡️ Developing AI agents in Pyhton for Automating security processes
+- 🐍  Automating security processes with Azure DevOps
 
 📫 Feel free to connect with me on pamsniffer@gmail.com
 
