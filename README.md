@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Perry
+## 👋 $ whoami perrym $ echo "Security Auditor | Powershell and Python Developer | Security Specialist"
 
 ### 🛡️ Security Auditor | 🐍 Python Developer | ☁️ Azure Specialist
 
