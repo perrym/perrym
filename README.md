@@ -1,4 +1,4 @@
-## 👋 $ whoami Perrym $ echo "Security Auditor | Powershell and Python Developer | Security Specialist"
+## 👋 $ whoami Perrym $ echo "Security Specialist | Powershell and Python Developer | Security Specialist"
 
 ### 🛡️ Security specialist | 🐍 Python Developer | ☁️ Azure Specialist
 
