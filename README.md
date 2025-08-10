@@ -1,5 +1,4 @@
-## 👋 $ whoami Perrym $ echo "Security Specialist | Powershell and Python Developer | Security Specialist"
-
+## 👋 $ whoami Perrym $ echo "Security Specialist | Powershell and Python Developer"
 ### 🛡️ Security specialist | 🐍 Python Developer | ☁️ Azure Specialist
 
 Welcome to my GitHub profile! I specialize in:
